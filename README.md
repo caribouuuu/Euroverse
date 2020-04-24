@@ -8,22 +8,15 @@
   - 분석 및 설계 : 2020.01.01 ~ 2020.01.24 
   - 구현 : 2020.01.27 ~ 2020.03.07
 - 참여 인원 : 6명
+- Model 2 MVC Web Architecture Pattern
 
-
-## 개발 환경
-- 언어 : Java 1.8.0_181
-- 프레임워크 : Spring 4.0.9
-- 아키텍처 : Model 2 MVC Web Architecture Pattern
-
-- Front-end : Javascript, HTML5/CSS3, JSP, BootStrap
-- Back-end : Java, MyBatis, Apache Tomcat
+## 기술 스택
+- Front-end : Javascript, HTML5/CSS3, JSP, BootStrap, JQuery, Ajax
+- Back-end : Java, Spring Framework 4.0.9, MyBatis, Apache Tomcat
 - Database : Oracle 10g, MongoDB 3.6.17
-
 - 버전 관리 : Github
-- Tool : Eclipse, VSCode, DBeaver, SQLDeveloper 
-
-- 라이브러리 : JQuery, Json, Ajax …
-- StarUML, JDBC, DBCP, JSP, JUnit4, Log4jdbc, AspectJ, Jackson, JSON-Simple, SweetAlert, CKEditor4, Foreign exchange rates API, 공공데이터포털API, 청기와 LAB, I'mPort API, JavaMail API, FullCalendar, Selenium, SummerNote, 네이버로그인 API, 카카오로그인 API, GoogleMap API, Owl Carousel, AOS, Swiper API
+- Tool : Eclipse, VSCode, DBeaver, SqlDeveloper 
+- 라이브러리 : JDBC, DBCP, JUnit4, Log4jdbc, AspectJ, Jackson, JSON-Simple, SweetAlert, CKEditor4, Foreign exchange rates API, 공공데이터포털API, 청기와 LAB, I'mPort API, JavaMail API, FullCalendar, Selenium, SummerNote, 네이버로그인 API, 카카오로그인 API, GoogleMap API, Owl Carousel, AOS, Swiper API
 
 
 ## 프로젝트 내용 
