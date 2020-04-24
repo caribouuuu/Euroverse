@@ -1,5 +1,5 @@
 
-[<img src="./Euroverse/WebContent/resources/images/icon/euroverse_logo.png" width="200" height="150">](http://15.165.86.252:8080/)
+[<img src="./Euroverse/WebContent/resources/images/icon/euroverse_logo.png" width="270">](http://15.165.86.252:8080/)
 # Euroverse
 유로버스 : 여행정보 및 플래너 제공 사이트 
 
