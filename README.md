@@ -49,8 +49,10 @@
 
 
 ## :pencil: 추가 학습
-- **(2020/04/08 ~ 2020/04/17)** 아마존 웹 서비스(AWS) EC2 배포를 통해 웹 서버 구축 방법 이해
-
+- 아마존 웹 서비스(AWS) EC2 배포를 통해 웹 서버 구축 방법 이해
+  - EC2 Ubuntu (Web Server, MongoDB용 instance)
+  - Amazon RDS (Oracle 12)
+  - Elastic IP (고정 IPv4 주소 등록)
 
 ## :pushpin: 참고 
 - **2020/04/20 Update** : 항공권 및 숙소 검색기능 미지원 (AWS 서버에서 Selenium 구동 실패)
