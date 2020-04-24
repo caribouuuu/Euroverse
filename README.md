@@ -8,7 +8,9 @@
   - 분석 및 설계 : 2020.01.01 ~ 2020.01.24 
   - 구현 : 2020.01.27 ~ 2020.03.07
 - 참여 인원 : 6명
-- Model 2 MVC Web Architecture Pattern
+- 아키텍처 : Model 2 MVC Web Architecture Pattern
+- 모듈 : 회원관리 / 플래너 / 주문관리 / 커뮤니티 / 채팅 및 알람
+
 
 ## 기술 스택
 - **Front-end** : Javascript, HTML5/CSS3, JSP, BootStrap, JQuery, Ajax
@@ -17,16 +19,6 @@
 - **Tool** : Eclipse, VSCode, DBeaver, SqlDeveloper 
 - **VCS** : Github
 - **Library** : JDBC, DBCP, JUnit4, Log4jdbc, AspectJ, Jackson, JSON-Simple, SweetAlert, CKEditor4, Foreign exchange rates API, 공공데이터포털API, 청기와 LAB, I'mPort API, JavaMail API, FullCalendar, Selenium, SummerNote, 네이버로그인 API, 카카오로그인 API, GoogleMap API, Owl Carousel, AOS, Swiper API
-
-
-## 프로젝트 내용 
-- 기능 (모듈별)
-  1. 플래너 작성
-  2. 커뮤니티 
-  3. 동행 구하기 & 채팅
-  4. 항공권 및 숙소 검색/구매
-  5. 여행정보...
-
 
 ## 담당 모듈: 플래너 서비스
 ### 1.플래너 생성 
