@@ -48,13 +48,12 @@
   - '플래너 공유 게시판'에 게시된 다른 사용자의 플래너 공유받기
 
 
-
 ## :pencil: 추가 학습
 - 아마존 웹 서비스(AWS) EC2 배포를 통해 웹 서버 구축 방법 이해
 
 
-## :warning: 참고 
-- 항공권 및 숙소 검색기능 빠개짐...... (Selenium AWS에 이식 실패)
+## :pushpin: 참고 
+- **2020/04/20 Update** : 항공권 및 숙소 검색기능 미지원 (AWS 서버에서 Selenium 구동 실패)
 - [프로젝트 발표](https://www.youtube.com/watch?v=xGH5Dzj8rAY)
 
 
