@@ -1,5 +1,5 @@
-
 [<img src="./Euroverse/WebContent/resources/images/icon/euroverse_logo.png" width="260">](http://15.165.86.252:8080/)
+
 # Euroverse
 유로버스 : 여행정보 및 플래너 제공 사이트 
 > 여행의 시작인 항공권 및 숙소 결제부터 플래너 작성, 예산 점검, 동행찾기, 실시간 채팅, 그리고 커뮤니티를 통한 유저간의 소통까지 제공하는 유럽여행 종합 플랫폼 '[Euroverse](http://15.165.86.252:8080/)'
@@ -20,19 +20,20 @@
 - **VCS** : Github
 - **Library** : JDBC, DBCP, JUnit4, Log4jdbc, AspectJ, Jackson, JSON-Simple, SweetAlert, CKEditor4, Foreign exchange rates API, 공공데이터포털API, 청기와 LAB, I'mPort API, JavaMail API, FullCalendar, Selenium, SummerNote, 네이버로그인 API, 카카오로그인 API, GoogleMap API, Owl Carousel, AOS, Swiper API
 
+
 ## 담당 모듈: 플래너 서비스
 ### 1.플래너 생성 
   #### 1.1 투두 리스트
-  - 투두 리스트 작성, 삭제, 칸반보드 관리(Drag&Drop)
+  - 투두 리스트 작성, 삭제, 칸반보드 관리(Drag&Drop) 
   #### 1.2 여행루트
-  - 여행루트 편집 페이지에서 지도의 도시를 선택해 여행루트 편집
-  - 도시 추가, 순서 변경, 삭제
+  - 지도의 `zoom scale`에 따라 선택 가능한 도시 목록이 업데이트됨
+  - 지도의 도시를 선택해 루트에 도시 추가, 순서 변경, 삭제
   - 도시간 이동수단 변경
   #### 1.3 일정표
   - 여행루트 편집시 자동으로 생성되는 일정표
   - 시간대별 일정 상세내용, 카테고리, 예산 기입 
   #### 1.4 준비물 체크리스트
-  - 준비물 항목 등록, 삭제, 체크
+  - 준비물 항목 등록, 체크, 삭제
   #### 1.5 스티커 메모
   - 해당 플래너 페이지 내에서 자유롭게 이동 가능한 스티커 메모
   - 메모 등록, 수정, 삭제
