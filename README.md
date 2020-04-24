@@ -54,7 +54,7 @@
 
 ## :pushpin: 참고 
 - **2020/04/20 Update** : 항공권 및 숙소 검색기능 미지원 (AWS 서버에서 Selenium 구동 실패)
-- [프로젝트 발표 영상](https://www.youtube.com/watch?v=xGH5Dzj8rAY) (2020/03/12)
+- (2020/03/12) : [프로젝트 발표 영상](https://www.youtube.com/watch?v=xGH5Dzj8rAY) 
 
 
 
