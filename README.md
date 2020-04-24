@@ -53,10 +53,11 @@
   - EC2 Ubuntu (Web Server, MongoDB용 instance)
   - Amazon RDS (Oracle 12)
   - Elastic IP (고정 IPv4 주소 등록)
-
+  - **2020/04/20 Update** : 항공권 및 숙소 검색기능 미지원 (AWS 서버에서 Selenium 구동 실패)
+  
+  
 ## :pushpin: 참고 
-- **2020/04/20 Update** : 항공권 및 숙소 검색기능 미지원 (AWS 서버에서 Selenium 구동 실패)
-- 2020/03/12 [프로젝트 발표 영상](https://www.youtube.com/watch?v=xGH5Dzj8rAY) 
+- [프로젝트 발표 영상](https://www.youtube.com/watch?v=xGH5Dzj8rAY) (2020/03/12)
 
 
 
