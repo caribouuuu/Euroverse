@@ -1,6 +1,6 @@
 [<img src="./Euroverse/WebContent/resources/images/icon/euroverse_logo.png" width="260">](http://15.165.86.252:8080/)
 
-# Euroverse
+# Euroverse :airplane:
 유로버스 : 여행정보 및 플래너 제공 사이트 
 > 여행의 시작인 항공권 및 숙소 결제부터 플래너 작성, 예산 점검, 동행찾기, 실시간 채팅, 그리고 커뮤니티를 통한 유저간의 소통까지 제공하는 유럽여행 종합 플랫폼 '[Euroverse](http://15.165.86.252:8080/)'
 
@@ -12,7 +12,7 @@
 - 모듈 : 회원관리 / 플래너 / 주문관리 / 커뮤니티 / 채팅 및 알람
 
 
-## 기술 스택
+## :zap: 기술 스택
 - **Front-end** : Javascript, HTML5/CSS3, JSP, BootStrap, JQuery, Ajax
 - **Back-end** : Java, Spring Framework 4.0.9, MyBatis, Apache Tomcat
 - **Database** : Oracle 10g, MongoDB 3.6.17
@@ -21,7 +21,7 @@
 - **Library** : JDBC, DBCP, JUnit4, Log4jdbc, AspectJ, Jackson, JSON-Simple, SweetAlert, CKEditor4, Foreign exchange rates API, 공공데이터포털API, 청기와 LAB, I'mPort API, JavaMail API, FullCalendar, Selenium, SummerNote, 네이버로그인 API, 카카오로그인 API, GoogleMap API, Owl Carousel, AOS, Swiper API
 
 
-## 담당 모듈: 플래너 서비스
+## :bulb: 담당 모듈: 플래너 서비스
 ### 1.플래너 생성 
   #### 1.1 투두 리스트
   - 투두 리스트 작성, 삭제, 칸반보드 관리(Drag&Drop) 
@@ -49,11 +49,11 @@
 
 
 
-## 추가
+## :pencil: 추가 학습
 - 아마존 웹 서비스(AWS) EC2 배포를 통해 웹 서버 구축 방법 이해
 
 
-## 참고
+## :warning: 참고 
 - 항공권 및 숙소 검색기능 빠개짐...... (Selenium AWS에 이식 실패)
 - [프로젝트 발표](https://www.youtube.com/watch?v=xGH5Dzj8rAY)
 
