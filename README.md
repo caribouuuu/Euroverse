@@ -11,12 +11,12 @@
 - Model 2 MVC Web Architecture Pattern
 
 ## 기술 스택
-- Front-end : Javascript, HTML5/CSS3, JSP, BootStrap, JQuery, Ajax
-- Back-end : Java, Spring Framework 4.0.9, MyBatis, Apache Tomcat
-- Database : Oracle 10g, MongoDB 3.6.17
-- 버전 관리 : Github
-- Tool : Eclipse, VSCode, DBeaver, SqlDeveloper 
-- 라이브러리 : JDBC, DBCP, JUnit4, Log4jdbc, AspectJ, Jackson, JSON-Simple, SweetAlert, CKEditor4, Foreign exchange rates API, 공공데이터포털API, 청기와 LAB, I'mPort API, JavaMail API, FullCalendar, Selenium, SummerNote, 네이버로그인 API, 카카오로그인 API, GoogleMap API, Owl Carousel, AOS, Swiper API
+- **Front-end** : Javascript, HTML5/CSS3, JSP, BootStrap, JQuery, Ajax
+- **Back-end** : Java, Spring Framework 4.0.9, MyBatis, Apache Tomcat
+- **Database** : Oracle 10g, MongoDB 3.6.17
+- **Tool** : Eclipse, VSCode, DBeaver, SqlDeveloper 
+- **VCS** : Github
+- **Library** : JDBC, DBCP, JUnit4, Log4jdbc, AspectJ, Jackson, JSON-Simple, SweetAlert, CKEditor4, Foreign exchange rates API, 공공데이터포털API, 청기와 LAB, I'mPort API, JavaMail API, FullCalendar, Selenium, SummerNote, 네이버로그인 API, 카카오로그인 API, GoogleMap API, Owl Carousel, AOS, Swiper API
 
 
 ## 프로젝트 내용 
