@@ -72,6 +72,5 @@
   
   
 ## :pushpin: 참고 
-- [프로젝트 발표 영상](https://www.youtube.com/watch?v=xGH5Dzj8rAY) (2020/03/12)
 
 
